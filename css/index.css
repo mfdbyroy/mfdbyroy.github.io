@@ -1,0 +1,47 @@
+.version.index /* version checker */
+{
+	color: #000007;
+	background-color: #4BBCDA;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 293px;
+	min-height: 293px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 104px 333px 103px 334px;
+}
+
+#u75
+{
+	z-index: 2;
+	width: 293px;
+	background-color: transparent;
+	left: -1px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
