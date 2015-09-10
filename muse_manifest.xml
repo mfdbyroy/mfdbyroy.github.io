@@ -1,53 +1,15 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mfdbyroy.ml" resolutions="1x" timestamp="1440339136508">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mfdbyroy.ml" resolutions="1x" timestamp="1441886398583">
   <folder name="css">
-    <file name="site_global.css" crc="420532648"/>
-    <file name="master_footer.css" crc="3887448591" ref="index:personnel:portfolios:site-infomation:social:about:sitemap:contact-us:404"/>
-    <file name="index.css" crc="465824748" ref="index"/>
-    <file name="master_header---footer.css" crc="15004819" ref="personnel:portfolios:site-infomation:index:social:about:sitemap:contact-us:404"/>
-    <file name="personnel.css" crc="3911839009" ref="personnel"/>
-    <file name="portfolios.css" crc="3865217424" ref="portfolios"/>
-    <file name="site-infomation.css" crc="4237735260" ref="site-infomation"/>
-    <file name="social.css" crc="4276804007" ref="social"/>
-    <file name="about.css" crc="4070075762" ref="about"/>
-    <file name="sitemap.css" crc="536054827" ref="sitemap"/>
-    <file name="contact-us.css" crc="4192293685" ref="contact-us"/>
-    <file name="404.css" crc="101588211" ref="404"/>
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="122404058" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:contact-us:social:site-infomation:sitemap:404:portfolios:personnel"/>
-    <file name="museutils.js" crc="275725342" ref="index:about:contact-us:social:site-infomation:sitemap:404:portfolios:personnel"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:about:contact-us:social:site-infomation:sitemap:404:portfolios:personnel"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:about:contact-us:social"/>
-    <file name="pie.js" crc="3827607177" ref="about:portfolios:personnel"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="footer-favicon.ico" crc="3806031045" ref="index"/>
-    <file name="img_20150808_130438.jpg" crc="3979573219" ref="index"/>
-    <file name="logotp.png" crc="4243274484" seo="true" ref="index:about:contact-us:social:site-infomation:sitemap:404:portfolios:personnel"/>
-    <file name="u211-4.png" crc="325511576" ref="index"/>
-    <file name="img_20150809_150142.jpg" crc="487468689" ref="about"/>
-    <file name="img_20150730_071156.jpg" crc="3871980767" ref="contact-us"/>
-    <file name="img_20150809_150852.jpg" crc="4093175293" ref="social"/>
-    <file name="youtube-512-black.png" crc="3824900702" seo="true" ref="social"/>
-    <file name="behance-512-black.png" crc="287505901" seo="true" ref="social"/>
-    <file name="facebook-512-black.png" crc="4249690639" seo="true" ref="social"/>
-    <file name="instagram-512-black.png" crc="347609369" seo="true" ref="social"/>
-    <file name="spotify-512-black.png" crc="282609620" seo="true" ref="social"/>
-    <file name="twitter-512-black.png" crc="261448896" seo="true" ref="social"/>
-    <file name="github_logo.png" crc="4186136194" seo="true" ref="site-infomation"/>
-    <file name="logotpblack.png" crc="529814225" seo="true" ref="portfolios"/>
-    <file name="u275-4.png" crc="241036413" ref="portfolios"/>
-    <file name="full1000tp_b.png" crc="215001225" seo="true" ref="portfolios"/>
-    <file name="full1000.jpg" crc="3961317018" seo="true" ref="portfolios"/>
-    <file name="dsc01231c.png" crc="3854811336" seo="true" ref="personnel"/>
+    <file name="logowhitetp.png" crc="176666014" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="352783006" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="about.html" crc="4031143338" seo="true" mt="1440339115780" redirect="true"/>
-  <file name="contact-us.html" crc="351740649" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="social.html" crc="535424037" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="site-infomation.html" crc="4294341889" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="sitemap.html" crc="4016150582" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="404.html" crc="3854386157" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="portfolios.html" crc="405796536" seo="true" mt="1440339102070" redirect="true"/>
-  <file name="personnel.html" crc="3796169252" seo="true" mt="1440339102070" redirect="true"/>
+  <file name="index.html" crc="244666691" seo="true" mt="1441886365317" redirect="true"/>
 </manifest>
